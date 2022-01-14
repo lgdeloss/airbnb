@@ -34,18 +34,18 @@ Question 3: What are the best seasons to increase price by owners?
 
 ### Question 1: 
 What is the correlation between price and reviews on neighborhoods?
-Analyse
-Based on findings there is a correlation between price and neighborhoods.
+- Analyse
+- Based on findings there is a correlation between price and neighborhoods.
 
 ### Question 2: 
 What is correlation between reviews and price?
-Analyse
-Based on findings there is a correlation btween reviews and price.
+- Analyse
+- Based on findings there is a correlation btween reviews and price.
 
 ### Question 3: 
 What are the best seasons to increase price by owners?
-Analyse
-Based on findings there isnt a correlation between time of the year and price.
+- Analyse
+- Based on findings there isnt a correlation between time of the year and price.
 
 
 # Evaluation
