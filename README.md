@@ -12,3 +12,5 @@ Based on findings there is a correlation btween reviews and price.
 Based on findings there isnt a correlation between time of the year and price.
 
 The model recieved the rsquared on the training data was 0.3040321049102459 and the rsquared on the test data was 0.3030322562137526.
+
+To view the blog post on medium go here https://medium.com/@lgdeloss/81207ae070b
